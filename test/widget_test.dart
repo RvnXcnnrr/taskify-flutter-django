@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:todo/main.dart';
+import 'package:taskify/main.dart';
 
 void main() {
   testWidgets('Add task smoke test', (WidgetTester tester) async {
